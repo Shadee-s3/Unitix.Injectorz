@@ -12,3 +12,4 @@ This is Unitix.Injectorz, a C# based injector for Unity games
 
 <img width="1206" height="743" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/f5c87922-75b8-4850-9475-68bbbd6d5f81" />
 
+Copyright © 2026 Shadee-S3. All rights reserved.
