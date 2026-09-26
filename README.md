@@ -2,7 +2,7 @@
 ---
 This is Unitix.Injectorz, a C# based injector for Unity games
 
-\\ Currently tested games \\ :
+\\\ Currently tested games \\\ :
 - Gorilla Tag
 
 
