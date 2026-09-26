@@ -5,6 +5,9 @@ This is Unitix.Injectorz, a C# based injector for Unity games
 \\\ Currently tested games \\\ :
 - Gorilla Tag
 
+make sure you join the discord for verification:
+https://discord.gg/hU8Ztxyrj
+
 ## Downloads
 
 [![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge)](https://github.com/Shadee-s3/Unitix.Injectorz/releases/latest)
